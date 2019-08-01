@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ### Technical Accomplishments
 <img src="images\azure-solutions-architect-expert-600x600.png" width="220" height="220" title="Azure Architect Expert">
 <img src="images\MCSE-Cloud-Platform-Infrastructure-2018.png" width="220" height="220" title="Azure MCSE">
