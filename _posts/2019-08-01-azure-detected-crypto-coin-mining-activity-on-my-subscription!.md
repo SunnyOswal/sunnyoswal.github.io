@@ -13,7 +13,7 @@ This takes you to the “Security Center” service blade. The thing that got my
 
 ![Azure Attacked Resources]({{ "/images/attackedresources.png" | absolute_url }})
 
-Seeing this i was quite curious as to what kind of attack were my resources under . And to be honest who cares to attack “MY” resources :)
+Seeing this i was quite curious as to what kind of attack were my resources under . And to be honest who cares to attack “MY” resources :stuck_out_tongue_winking_eye:  
 To get more details, i clicked on the dashboard chart which showed “2 Attacked resources” and it opened a new “Security Alerts” blade .
 AND here i got to know that the attack Azure detected was a “Crypto-mining activity” 2 days back to back.
 
@@ -31,9 +31,9 @@ As per the screenshot, Azure analyzed the network activity of my virtual machine
 
 ![Azure Crypto Activity Details]({{ "/images/cryptoactivity-final.png" | absolute_url }})
 
-This alert was accurate as i was honestly doing crypto currency mining on these 2 machines as part of an experiment :) which was successful.
-I wanted to continue mining :) BUT as there is a limit on the CPU cores we get in Azure Free Trial , i cannot create more VM’s to try some other azure services which require compute resources like VM’s to be created.
-Hence i deleted those crypto currency mining VM’s :(
-Hope people reading this blog might get some idea about……. Azure Security Center , of course :)
+This alert was accurate as i was honestly doing crypto currency mining on these 2 machines as part of an experiment :sunglasses: which was successful.
+I wanted to continue mining :grin: BUT as there is a limit on the CPU cores we get in Azure Free Trial , i cannot create more VM’s to try some other azure services which require compute resources like VM’s to be created.
+Hence i deleted those crypto currency mining VM’s :disappointed:
+Hope people reading this blog might get some idea about……. Azure Security Center , of course :smirk:
 
 **NOTE:** This post was initially posted by **ME** on [medium](https://medium.com/@isunnyoswal/azure-detected-crypto-coin-mining-activity-on-my-subscription-b98b320ef30a) .
