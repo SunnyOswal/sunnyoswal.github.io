@@ -26,7 +26,7 @@
       {% if page.is_post != "True" %}
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% endif %}
-      {% if page.is_home_btn_reqd = "True" %}
+      {% if page.is_home_btn_reqd == "True" %}
         <a href="/" class="btn">Home</a>
       {% endif %}
       {% if page.is_aboutpage != "True" %}
