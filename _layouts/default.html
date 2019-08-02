@@ -25,7 +25,8 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       {% if page.is_post != "True" %}
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% endif %}      
+      {% endif %}
+      <a href="/" class="btn">Home</a>
       {% if page.is_aboutpage != "True" %}
         <a href="about_me" class="btn">About the Author</a>
       {% endif %}
