@@ -2,6 +2,8 @@ title: Sunny Oswal
 description: >
   Software Engineer. Microsoft Azure Enthusiast. Go-Getter.
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
 social:
   - icon:	twitter
     url:	https://twitter.com/sunny_oswal
