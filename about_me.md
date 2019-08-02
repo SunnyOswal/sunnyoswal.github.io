@@ -2,6 +2,7 @@
 layout: default
 title: Sunny Oswal
 permalink: /about_me/
+is_aboutpage: "True"
 ---
 
 ### Technical Accomplishments
