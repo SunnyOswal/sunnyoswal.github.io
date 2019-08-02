@@ -4,7 +4,6 @@ tags: ['Bitcoin', 'Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Com
 is_post: "True"
 ---
 
-### Azure detected Crypto Coin Mining activity on my subscription!
 Yesterday, while exploring azure services i came across “Security Center” service. You can find this service in azure portal by -
 Look for “All services” on left side of azure portal > Then search for “Security Center” and click on the “Security Center” in the result.
 
