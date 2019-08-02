@@ -36,4 +36,4 @@ I wanted to continue mining :) BUT as there is a limit on the CPU cores we get i
 Hence i deleted those crypto currency mining VM’s :(
 Hope people reading this blog might get some idea about……. Azure Security Center , of course :)
 
-**NOTE:** This post was initially posted by **ME** on medium and can be found at: https://medium.com/@isunnyoswal/azure-detected-crypto-coin-mining-activity-on-my-subscription-b98b320ef30a  
+**NOTE:** This post was initially posted by **ME** on [medium](https://medium.com/@isunnyoswal/azure-detected-crypto-coin-mining-activity-on-my-subscription-b98b320ef30a) .
