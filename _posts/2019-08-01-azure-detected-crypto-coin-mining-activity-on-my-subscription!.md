@@ -2,7 +2,7 @@
 categories: Azure
 tags: ['Bitcoin', 'Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
 is_post: "True"
-is_home_btn_reqd: “True”
+is_home_btn_reqd: "True"
 ---
 
 Yesterday, while exploring azure services i came across “Security Center” service. You can find this service in azure portal by -
