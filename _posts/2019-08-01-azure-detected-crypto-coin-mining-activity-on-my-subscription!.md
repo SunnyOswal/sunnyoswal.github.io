@@ -1,6 +1,7 @@
 ---
 categories: Azure
 tags: ['Bitcoin', 'Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
+is_post: "True"
 ---
 
 ### Azure detected Crypto Coin Mining activity on my subscription!
