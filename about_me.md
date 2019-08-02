@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hello World, my name is Sunny Oswal.
-permalink: /about/
+permalink: /about_me/
 ---
 
 ### Technical Accomplishments
