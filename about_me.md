@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Hello World, my name is Sunny Oswal.
+title: Sunny Oswal
 permalink: /about_me/
 ---
 
 ### Technical Accomplishments
-<img src="images\azure-solutions-architect-expert-600x600.png" width="220" height="220" title="Azure Architect Expert">
-<img src="images\MCSE-Cloud-Platform-Infrastructure-2018.png" width="220" height="220" title="Azure MCSE">
-<img src="images\MCSA+Cloud+Platform-01.png" width="220" height="220" title="Azure MCSA">
-<img src="images\Microsoft_Exam532.png" width="220" height="220" title="Azure 70-532">
-<img src="images\Microsoft_Exam533.png" width="220" height="220" title="Azure 70-533">
-<img src="images\Microsoft_Exam534.png" width="220" height="220" title="Azure 70-534">
-<img src="images\Developing+Microsoft+Azure+and+Web+Services-01.png" width="220" height="220" title="Azure 70-487">
+![Azure Architect Expert]({{ "images/azure-solutions-architect-expert-600x600.png" | absolute_url }})
+![Azure MCSE]({{ "images/MCSE-Cloud-Platform-Infrastructure-2018.png" | absolute_url }})
+![Azure MCSA]({{ "images/MCSA+Cloud+Platform-01.png" | absolute_url }})
+![Azure 70-532]({{ "images/Microsoft_Exam532.png" | absolute_url }})
+![Azure 70-533]({{ "images/Microsoft_Exam533.png" | absolute_url }})
+![Azure 70-534]({{ "images/Microsoft_Exam534.png" | absolute_url }})
+![Azure 70-487]({{ "images/Developing+Microsoft+Azure+and+Web+Services-01.png" | absolute_url }})
