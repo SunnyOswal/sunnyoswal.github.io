@@ -30,6 +30,10 @@
       {% if page.is_aboutpage != "True" %}
         <a href="/about_me" class="btn">About the Author</a>
       {% endif %}
+      {% if page.is_aboutpage == "True" %}
+        <a href="{{site.twitter_url}}" class="btn">Follow me on Twitter</a>
+        <a href="{{site.linkedin_url}}" class="btn">Connect with me on LinkedIn</a>
+      {% endif %}
       
     </header>
 
