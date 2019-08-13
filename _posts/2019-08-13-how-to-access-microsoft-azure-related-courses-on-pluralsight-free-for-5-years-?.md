@@ -30,7 +30,7 @@ We can also browse to the **Account Settings** to see the type of subscription l
 
 ![Pluralsight Account]({{ "/images/pluralsight-account.PNG" | absolute_url }})  
 
-Highlights of this benfit:  
+Highlights of this benefit:  
 + The azure courses library gets updated frequently which gives us access to latest azure courses as well.
 + We can even download the course for offline viewing.
 + This benefits also gives access to Azure related Role IQ Assessments on pluralsight.
