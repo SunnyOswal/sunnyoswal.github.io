@@ -17,6 +17,8 @@ Clicking on **"See All Free Online Courses"** will redirect to the pluralsight w
 
 After clicking on **"Register and Start Free"** , we need to fill up the pop-up form that appears on the screen, accepting **Terms of Use & Privacy Policy** and Hit **"I Agree, Activate Benefit"** 
 
+![Register Azure Pluralsight Benefits]({{ "/images/pluralsight-azure-register-form.PNG" | absolute_url }})  
+
 This will create a new pluralsight account (incase we don't have one) or will activate the benefit to existing pluralsight account .
 Once the account is created, we receive an email from pluralsight having login details.
 
