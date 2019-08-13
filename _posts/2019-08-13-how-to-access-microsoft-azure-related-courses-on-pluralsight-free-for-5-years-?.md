@@ -12,7 +12,7 @@ Recently, while browsing the **Microsoft Learn** [documentation](https://docs.mi
 
 ![Azure Pluralsight Benefits]({{ "/images/msft-learn-pluralsight-azure.png" | absolute_url }})  
 
-Clicking on **"See All Free Online Courses"** will redirect to the pluralsight website's benefits details page which looks like this:
+Clicking on **"See All Free Online Courses"** will redirect to the pluralsight website's [benefits details page](https://www.pluralsight.com/partners/microsoft/azure?aid=7010a000001xDURAA2) which looks like this:
 ![Register Azure Pluralsight Benefits]({{ "/images/pluralsight-azure-register.PNG" | absolute_url }})  
 
 After clicking on **"Register and Start Free"** , we need to fill up the pop-up form that appears on the screen, accepting **Terms of Use & Privacy Policy** and Hit **"I Agree, Activate Benefit"** 
@@ -22,7 +22,7 @@ After clicking on **"Register and Start Free"** , we need to fill up the pop-up 
 This will create a new pluralsight account (incase we don't have one) or will activate the benefit to existing pluralsight account .
 Once the account is created, we receive an email from pluralsight having login details.
 
-After logging in with the pluarlsight account just created, pluralsight's default landing page is the azure courses library page having all the courses which are available for free. 
+After logging in with the pluralsight account just created, pluralsight's default landing page is the azure courses library page having all the courses which are available for free. 
 
 ![Azure Pluralsight Courses]({{ "/images/pluralsight-azure-courses.PNG" | absolute_url }})  
 
