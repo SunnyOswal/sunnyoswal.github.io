@@ -1,6 +1,6 @@
 ---
 categories: Azure
-tags: ['Bitcoin', 'Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
+tags: ['Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
 is_post: "True"
 is_home_btn_reqd: "True"
 ---
