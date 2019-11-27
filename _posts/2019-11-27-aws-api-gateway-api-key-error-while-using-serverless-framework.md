@@ -4,8 +4,8 @@ tags: ['AWS', 'CloudFormation','ServerlessFramework']
 is_post: "True"
 is_home_btn_reqd: "True"
 ---
-In my current project, we are using serverless framework to package/deploy our serverless application on AWS.
-Our Serverless.yml consists of couple of lambda's , api gateway and related configurations.
+In my current project, we are using serverless framework to package/deploy our serverless application on AWS.  
+Our Serverless.yml consists of couple of lambda's , api gateway and related configurations.  
 Our deployment pipeline automates the serverless framework commands and package/deploy application to AWS.
 
 **Issue:**  
@@ -23,8 +23,10 @@ ServerlessError: Invalid API Key identifier specified
 
 ![AWS CF Stack Resources]({{ "/images/AwsApiKeyId.png" | absolute_url }})  
 
-    - Then we used the **"Detect Drift"** feature which we can find in **"Stack actions"** on the same page which will initiate **"drift detection"** and the result showed the **"Drift Status"** changed to **"DRIFTED"** which we can seen in **"Stack Info"** tab. 
-    - On viewing the **"Drift Results"** under **"Stack actions"**, we can get details of the resources that drifted with drift status as **"MODIFIED"**.
+* Then we used the **"Detect Drift"** feature which we can find in **"Stack actions"** on the same page which will initiate **"drift detection"** and the result showed the **"Drift Status"** changed to **"DRIFTED"** which we can seen in **"Stack Info"** tab. 
+ 
+* On viewing the **"Drift Results"** under **"Stack actions"**, we can get details of the resources that drifted with drift status as **"MODIFIED"**.  
+
 This convinced us that something was wrong with the stack and we decided to update the stack itself manually.
 
 **Root Cause:**  
