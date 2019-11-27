@@ -64,8 +64,8 @@ Follow below steps to achieve that:
 ![AWS CF Stack Update]({{ "/images/AwsStackTemplateUpdate.png" | absolute_url }})  
 
 10. This will trigger a stack deployment/update and you can wait till it finishes successfully.  
-11. Once it finishes, you can re-run the deployment pipeline or serverless framework command from CLI and this time it will pass :)  
+11. Once it finishes, you can re-run the deployment pipeline or serverless framework command from CLI and this time it will pass :sunglasses:  
 
 
 **Note:** 
-I know there might be other ways to troubleshoot the issue or update the cloudformation template. I tried this one and it worked. Hope it helps :)
+I know there might be other ways to troubleshoot the issue or update the cloudformation template. I tried this one and it worked. Hope this helps.
