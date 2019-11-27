@@ -58,13 +58,12 @@ Follow below steps to achieve that:
 ![AWS CF Stack Update Copy S3 URL]({{ "/images/AwsStackTemplateS3Url.png" | absolute_url }})  
 
 8. Close this page and repeat the step 3 & 4 but this time choose **"Replace current template"** and paste the S3 template URL which we copied earlier and keep on clicking **"Next"** button till it comes to **"Step 4 Review"** stage.  
-
 ![AWS CF Stack Update Use S3 template]({{ "/images/AwsStackTemplateUseS3Template.png" | absolute_url }})  
+
 9. Scroll to the bottom of the page, review the changes that will be done with respect to current stack in **"Change Set review"** section and if all good , scroll down to enable the checkbox that requires you to acknowledge that IAM role might be created and then Hit **"Update Stack"**.  
-
 ![AWS CF Stack Update]({{ "/images/AwsStackTemplateUpdate.png" | absolute_url }})  
-10. This will trigger a stack deployment/update and you can wait till it finishes successfully.  
 
+10. This will trigger a stack deployment/update and you can wait till it finishes successfully.  
 11. Once it finishes, you can re-run the deployment pipeline or serverless framework command from CLI and this time it will pass :)  
 
 
