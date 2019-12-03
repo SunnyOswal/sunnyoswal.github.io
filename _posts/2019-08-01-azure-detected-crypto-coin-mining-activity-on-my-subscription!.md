@@ -36,5 +36,3 @@ This alert was accurate as i was honestly doing crypto currency mining on these 
 I wanted to continue mining :grin: BUT as there is a limit on the CPU cores we get in Azure Free Trial , i cannot create more VM’s to try some other azure services which require compute resources like VM’s to be created.
 Hence i deleted those crypto currency mining VM’s :disappointed:
 Hope people reading this blog might get some idea about……. Azure Security Center , of course :smirk:
-
-**NOTE:** This post was initially posted by **ME** on [medium](https://medium.com/@isunnyoswal/azure-detected-crypto-coin-mining-activity-on-my-subscription-b98b320ef30a) .
