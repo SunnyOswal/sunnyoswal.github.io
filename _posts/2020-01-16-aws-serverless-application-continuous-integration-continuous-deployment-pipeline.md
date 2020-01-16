@@ -1,6 +1,6 @@
 ---
 categories: Aws
-tags: ['AWS', 'Serverless', 'Terraform', 'BitbucketPipelines','ServerlessFramework']
+tags: ['AWS', 'Serverless', 'Terraform', 'BitbucketPipelines','ServerlessFramework','DevOps']
 is_post: "True"
 is_home_btn_reqd: "True"
 ---
