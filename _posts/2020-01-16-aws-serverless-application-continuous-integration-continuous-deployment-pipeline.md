@@ -18,5 +18,6 @@ Infrastructure as Code (IaC) principle was key factor in designing this pipeline
 Details:  
 + We use Trunk-Based Git Branching model for development.
 + Source code repository is Bitbucket and we use bitbucket pipelines as our CI/CD pipeline.
++ Above diagram was created using draw.io
 
 Hope this helps.
