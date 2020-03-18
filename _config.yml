@@ -4,6 +4,7 @@ description: >
 theme: jekyll-theme-cayman
 google_analytics: UA-145067209-1
 google_ad_client: ca-pub-8924066507492142
+paginate: 4
 plugins:
   - jemoji
 twitter_url: https://twitter.com/sunny_oswal
