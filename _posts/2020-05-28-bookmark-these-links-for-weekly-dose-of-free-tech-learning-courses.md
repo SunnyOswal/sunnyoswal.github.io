@@ -6,7 +6,7 @@ is_home_btn_reqd: "True"
 ---
 
 # Free Weekly Courses :
-+ [Pluralsight](https://docs.microsoft.com/en-us/learn/azure/) 
++ [Pluralsight](https://learn.pluralsight.com/resource/free-course/free-weekly-course) 
 + [LinuxAcademy](https://linuxacademy.com/blog/announcements/free-courses-at-linux-academy/) 
 
 # All Free Courses List :
