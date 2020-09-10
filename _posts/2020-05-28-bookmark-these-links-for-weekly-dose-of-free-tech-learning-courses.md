@@ -7,7 +7,7 @@ is_home_btn_reqd: "True"
 
 # Free Weekly Courses :
 + [Pluralsight](https://learn.pluralsight.com/resource/free-course/free-weekly-course) 
-+ [LinuxAcademy](https://linuxacademy.com/blog/announcements/free-courses-at-linux-academy/) 
++ [ACloudGuru](https://acloudguru.com/blog/news/whats-free-at-a-cloud-guru-september-2020) 
 
 # All Free Courses List :
 + [Udemy](https://www.udemy.com/courses/free/?lang=en&sort=popularity&subcategory=Web+Development&subcategory=Other+in+IT+%26+Software&subcategory=Microsoft&subcategory=Programming+Languages&subcategory=Network+%26+Security) 
