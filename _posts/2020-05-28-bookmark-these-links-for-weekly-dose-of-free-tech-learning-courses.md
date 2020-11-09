@@ -15,4 +15,4 @@ is_home_btn_reqd: "True"
 + [EDX](https://www.edx.org/search?subject=Data%20Analysis%20%26%20Statistics%2CComputer%20Science&availability=Available%20now&language=English&tab=course)
 
 # Getting Access to Azure courses library free for 5 years:
-[Pluralsight Azure Free For 5 Years](https://www.sunnyoswal.com/azure/2019/08/13/how-to-access-microsoft-azure-related-courses-on-pluralsight-free-for-5-years.html)  (350+ courses) 
+[Pluralsight Azure Free For 5 Years](https://www.sunnyoswal.com/azure/2019/08/13/how-to-access-microsoft-azure-related-courses-on-pluralsight-free-for-5-years.html)  (500+ courses) 
