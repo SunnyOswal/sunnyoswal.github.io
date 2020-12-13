@@ -1,6 +1,6 @@
 ---
 categories: Azure
-tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'Cloud Computing']
+tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'Azure']
 is_post: "True"
 is_home_btn_reqd: "True"
 ---
@@ -37,6 +37,6 @@ flag, but this is not recommended.
 ```
 az storage blob lease break -b terraform.tfstate -c myAzureStorageAccountContainerName --account-name "myAzureStorageAccountName" --account-key "myAzureStorageAccountAccessKey"
 ```
-Blob file (Terraform.tfstate) lock will be removed succesfully if you get 0 as output of the above command.
+Blob file (Terraform.tfstate) lock will be removed successfully if you get 0 as output of the above command.
 
 Now you can retry the pipeline and it will run as expected without above error.
