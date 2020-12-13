@@ -9,7 +9,7 @@ As per best practices of Terraform, state file should be stored in a remote back
 
 For one of the project i am working for, we decided to use azure blob storage for terraform state file remote backend storage as it has inbuilt lock mechanism. 
 
-We also have a separate IaC repo for which we have a CI/CD pipeline which does terraform validationa and apply them.
+We also have a separate IaC repo for which we have a CI/CD pipeline which does terraform validations and apply them.
 Below is the flow diagram of the implementation:
 
 ![CI-CD-PIPELINE]({{ "/images/Terraform-workflow.gif" | absolute_url }})
