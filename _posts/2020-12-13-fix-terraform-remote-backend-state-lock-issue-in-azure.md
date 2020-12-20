@@ -35,7 +35,13 @@ flag, but this is not recommended.
 ```
 
 
-**FIX**    
+**FIX can be done via UI or CLI**:    
+**UI :**
++ On Azure portal , browse to the blob (terraform.tfstate) file and you will see that the blob has "Leased" state .
++ Click "Break Lease" as shown in screenshot below:   
+![BREAK-LEASE]({{ "/images/AzBlobLeaseBreak.jpeg" | absolute_url }})
+
+**CLI :**
 + Get your azure storage account name , container name and storage account access key which is configured to be used as remote backend in terraform and update command used in next step.
 + Run below command which uses azure cli:  
 ```
