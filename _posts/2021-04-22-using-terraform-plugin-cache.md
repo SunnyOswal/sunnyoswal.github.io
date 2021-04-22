@@ -41,4 +41,4 @@ Initializing provider plugins...
 - Using hashicorp/google v3.51.0 from the shared cache directory
 ```
 
-Official Doc: https://www.terraform.io/docs/cli/config/config-file.html#provider-plugin-cache
+Official [Documentation](https://www.terraform.io/docs/cli/config/config-file.html#provider-plugin-cache)
