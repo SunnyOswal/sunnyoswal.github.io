@@ -5,8 +5,8 @@ is_post: "True"
 is_home_btn_reqd: "True"
 ---
 
-In my current project, we have automation scripts running terraform which had multiple providers like gcp & vault.   
-+ Also as part of automation we have to cleanup the repo which had the default **.terraform** dir (where all providers were downloaded) as we cloned the git repo(very light) on every run to fetch latest repo .    
+In my current project, we have automation scripts running terraform which have multiple providers like gcp & vault.   
++ Also as part of automation we have to cleanup the repo which has the default **.terraform** dir (where all providers were downloaded) as we cloned the git repo(very light) on every run to fetch latest repo .    
 + Due to this cleanup , everytime automation was downloading the terraform plugins/providers which would take some time depending on download speeds.
 
 We wanted to avoid downloading same plugins/providers every time if there was no change in version.   
