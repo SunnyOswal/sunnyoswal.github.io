@@ -35,13 +35,13 @@ flag, but this is not recommended.
 ```
 
 
-**FIX can be done via UI or CLI**:    
+**FIX can be done via UI or AZ CLI or TF CLI**:    
 **UI :**
 + On Azure portal , browse to the blob (terraform.tfstate) file and you will see that the blob has "Leased" state .
 + Click "Break Lease" as shown in screenshot below:   
 ![BREAK-LEASE]({{ "/images/AzBlobLeaseBreak.jpeg" | absolute_url }})
 
-**CLI :**
+**AZ CLI :**
 + Get your azure storage account name , container name and storage account access key which is configured to be used as remote backend in terraform and update command used in next step.
 + Run below command which uses azure cli:  
 ```
@@ -49,4 +49,10 @@ az storage blob lease break -b terraform.tfstate -c myAzureStorageAccountContain
 ```
 Blob file (Terraform.tfstate) lock will be removed successfully if you get 0 as output of the above command.
 
+**TF CLI :**
++ Get LockId from error .
++ Run below command which uses terraform cli:  
+```
+terraform force-unlock <LockId>
+```
 Now you can retry the pipeline and it will run as expected without above error.
