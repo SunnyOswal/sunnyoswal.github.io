@@ -282,7 +282,7 @@ cat ~/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
 Highlights of using kubestack:  
 + Top 3 Cloud providers supported - AWS , Azure & GCP.
 + Easy to configure.
-+ It covers complete workflow from local to production. Not at all a half baked product.
++ It covers complete workflow from local to production. Not at all a half baked product. Definitely worth trying it out for a new project.
 + It just works :heart_eyes: .  
 
 References:
