@@ -279,7 +279,14 @@ cat ~/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
   + triggered from a tag the pipeline. (Applies changes for `apps` workspace).  
   ![Tag]({{ "/images/kubestack-tag.png" | absolute_url }})
 
+Highlights of using kubestack:  
++ Top 3 Cloud providers supported - AWS , Azure & GCP.
++ Easy to configure.
++ It covers complete workflow from local to production. Not at all a half baked product.
++ It just works :heart_eyes: .  
 
 References:
 - [Kubestack](https://www.kubestack.com/)
-- [Kubestack Tutorial](https://www.kubestack.com/framework/documentation/tutorial-get-started)
+- [Kubestack Tutorial](https://www.kubestack.com/framework/documentation/tutorial-get-started).  
+- 
+Hope you like this post and Keep Learning !
