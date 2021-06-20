@@ -5,13 +5,13 @@ is_post: "True"
 is_home_btn_reqd: "True"
 ---
 
-I recently came across `Kubestack` which is a GitOps framework for Infra automation for kubernetes.   
-- Kubestack currenlty supports AWS, AZURE and GCP . 
+I recently came across `Kubestack` which is a GitOps framework for kubernetes Infra automation.   
+- Kubestack currently supports AWS, AZURE and GCP . 
 - Kubestack has it's own terraform provider as well which is supported by `Kubestack` team.
 
 In my current project, we are using GCP so thought of trying out the [tutorial](https://www.kubestack.com/framework/documentation/tutorial-get-started) for GKE (GCP managed kubernetes service).
 
-The tutorial is very well documented and have clear instructions for multiple OS including Linux , macOS and Windows .   
+The tutorial is very well documented and has clear instructions for multiple OS including Linux , macOS and Windows .   
 But tutorial was a bit outdated for GKE and had to make few changes for getting it to work. Also the documentation lacks the 1 click code/commands snippet "Copy" function :clipboard: .
 
 Things that need to be updated which were not specified in documentation:
@@ -252,7 +252,7 @@ git commit -m "Add cluster configuration"
 ```
 
 # Configuring Automation
-We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on github.
+We need a git repo for gitops to work. Therefore we will need to create a repo. We can create one on github.
 + Next steps are very well documented at : [Kubestack Automation](https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation)
 + Now we need to use the svc. account earlier created and configure it as secret:   
 
