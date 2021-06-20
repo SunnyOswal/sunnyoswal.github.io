@@ -59,7 +59,7 @@ kbst repo init gke
 cd kubestack-starter-gke
 ```
 This repository includes all the files required for tutorial to work and just need to update few variables that gives you control on naming and region of GCP resources .
-
+![Repo]({{ "/images/kubestack-files.png" | absolute_url }})
 
 Best part of `kubestack` is that you can try out the framework on your local and it helps you provision local cluster by using it's CLI:
 ```
@@ -246,11 +246,12 @@ Instead below works:
 cat ~/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
 ```
 + After this we need to add github actions pipeline file which will basically be trigerred for below 3 scenarios
-  + triggered from a feature branch
-    
-  + triggered from the main branch.
-  
-  + triggered from a tag the pipeline.
+  + triggered from a feature branch (Only Shows terraform plan for `ops` workspace)
+  ![Main]({{ "/images/kubestack-feature-branch.png" | absolute_url }})
+  + triggered from the main branch. (Applies changes for `ops` workspace)
+  ![Main]({{ "/images/kubestack-main-branch.png" | absolute_url }})
+  + triggered from a tag the pipeline. (Applies changes for `apps` workspace)
+  ![Tag]({{ "/images/kubestack-tag.png" | absolute_url }})
 
 
 References:
