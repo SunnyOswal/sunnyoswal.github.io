@@ -252,7 +252,7 @@ git commit -m "Add cluster configuration"
 ```
 
 # Configuring Automation
-We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on githb.
+We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on github.
 + Next steps are very well documented at : [Kubestack Automation](https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation)
 + Now we need to use the svc. account earlier created and configure it as secret:   
 
