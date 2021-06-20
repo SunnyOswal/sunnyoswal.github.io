@@ -151,12 +151,108 @@ terraform workspace new ops
 # Bootstrap the ops environment
 terraform apply --auto-approve --target module.gke_zero
 terraform apply --auto-approve
+```
+output will be something like:
+```
+Apply complete! Resources: 13 added, 0 changed, 0 destroyed.
+```
 
+```
 # Bootstrap the apps environment
 terraform workspace select apps
 terraform apply --auto-approve --target module.gke_zero
 terraform apply --auto-approve
 ```
+output will be something like:
+```
+Apply complete! Resources: 18 added, 0 changed, 0 destroyed.
+```
+Now we need to setup DNS:
+
+For Ops:
+```
+terraform workspace select ops
+terraform state show module.gke_zero.module.cluster.google_dns_managed_zone.current[0]
+```
+
+output will be something like:
+```
+# module.gke_zero.module.cluster.google_dns_managed_zone.current[0]:
+resource "google_dns_managed_zone" "current" {
+    description   = "Managed by Terraform"
+    dns_name      = "kbst-ops-europe-west3.gcp.poc."
+    force_destroy = false
+    id            = "projects/XXXXXXXX/managedZones/kbst-ops-europe-west3"
+    labels        = {}
+    name          = "kbst-ops-europe-west3"
+    name_servers  = [
+        "ns-cloud-c1.googledomains.com.",
+        "ns-cloud-c2.googledomains.com.",
+        "ns-cloud-c3.googledomains.com.",
+        "ns-cloud-c4.googledomains.com.",
+    ]
+    project       = "XXXXXXXX"
+    visibility    = "public"
+}
+```
+For Apps:
+```
+terraform workspace select apps
+terraform state show module.gke_zero.module.cluster.google_dns_managed_zone.current[0]
+```
+output will be something like:
+
+```
+# module.gke_zero.module.cluster.google_dns_managed_zone.current[0]:
+resource "google_dns_managed_zone" "current" {
+    description   = "Managed by Terraform"
+    dns_name      = "kbst-apps-europe-west3.gcp.poc."
+    force_destroy = false
+    id            = "projects/XXXXXXXX/managedZones/kbst-apps-europe-west3"
+    labels        = {}
+    name          = "kbst-apps-europe-west3"
+    name_servers  = [
+        "ns-cloud-c1.googledomains.com.",
+        "ns-cloud-c2.googledomains.com.",
+        "ns-cloud-c3.googledomains.com.",
+        "ns-cloud-c4.googledomains.com.",
+    ]
+    project       = "XXXXXXXX"
+    visibility    = "public"
+}
+
+```
+Now we can exit the bootstrap container 
+```
+exit
+```
+and commit changes to repo
+```
+git add .
+git commit -m "Add cluster configuration"
+```
+
+# Configuring Automation
+We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on githb.
++ Next steps are very well documented at : https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation
++ Now we need to use the svc. account earlier created and configure it as secret:
++ In ubuntu, gcloud credentials are stored in a different path. Therefore, below doesn't work:
+```
+cat .user/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
+```
+
+Instead below works:
+```
+cat ~/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
+```
++ After this we need to add github actions pipeline file which will basically be trigerred for below 3 scenarios
+  + triggered from a feature branch
+    
+  + triggered from the main branch.
+  
+  + triggered from a tag the pipeline.
+
+
 References:
 - https://www.kubestack.com/
 - https://www.kubestack.com/framework/documentation/tutorial-get-started
