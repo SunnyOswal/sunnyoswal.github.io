@@ -174,19 +174,20 @@ output will be something like:
 ```
 Apply complete! Resources: 18 added, 0 changed, 0 destroyed.
 ```
-![Repo]({{ "/images/kubestack-gke.png" | absolute_url }}) 
 
-
-  
-Now we need to setup DNS:
-![Repo]({{ "/images/kubestack-dns.png" | absolute_url }}) 
-
-
-  
+Terraform state file in bucket will have different state for each workspace: 
 ![Repo]({{ "/images/kubestack-tfstate.png" | absolute_url }}) 
 
 
-  
+ 
+![Repo]({{ "/images/kubestack-gke.png" | absolute_url }}) 
+
+
+
+![Repo]({{ "/images/kubestack-dns.png" | absolute_url }}) 
+
+ 
+Now we need to setup DNS:
 For Ops:
 ```
 terraform workspace select ops
@@ -253,8 +254,9 @@ git commit -m "Add cluster configuration"
 # Configuring Automation
 We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on githb.
 + Next steps are very well documented at : https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation
-+ Now we need to use the svc. account earlier created and configure it as secret:
-+ In ubuntu, gcloud credentials are stored in a different path. Therefore, below doesn't work:
++ Now we need to use the svc. account earlier created and configure it as secret:   
+
+In ubuntu, gcloud credentials are stored in a different path. Therefore, below doesn't work:
 ```
 cat .user/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
 ```
