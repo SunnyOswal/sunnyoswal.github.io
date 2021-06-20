@@ -58,12 +58,12 @@ kbst repo init gke
 # Change into the starter directory
 cd kubestack-starter-gke
 ```
-This repository includes all the files required for tutorial to work 
+This repository includes all the files required for tutorial to work  
 ![Repo]({{ "/images/kubestack-files.png" | absolute_url }}) 
 
 
   
-and just need to update few variables that gives you control on naming and region of GCP resources .
+and just need to update few variables that gives you control on naming and region of GCP resources   
 ![Repo]({{ "/images/kubestack-changes.png" | absolute_url }}) 
 
 
@@ -175,7 +175,7 @@ output will be something like:
 Apply complete! Resources: 18 added, 0 changed, 0 destroyed.
 ```
 
-Terraform state file in bucket will have different state for each workspace: 
+Terraform state file in bucket will have different state for each workspace:    
 ![Repo]({{ "/images/kubestack-tfstate.png" | absolute_url }}) 
 
 
@@ -253,7 +253,7 @@ git commit -m "Add cluster configuration"
 
 # Configuring Automation
 We need a git repo for gitops to work. Therfore we will need to create a repo. We can create one on githb.
-+ Next steps are very well documented at : https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation
++ Next steps are very well documented at : [Kubestack Automation](https://www.kubestack.com/framework/documentation/tutorial-setup-automation#set-up-automation)
 + Now we need to use the svc. account earlier created and configure it as secret:   
 
 In ubuntu, gcloud credentials are stored in a different path. Therefore, below doesn't work:
@@ -268,18 +268,18 @@ cat ~/.config/gcloud/application_default_credentials.json | base64 -w 0 && echo
 + After this we need to add github actions pipeline file which will basically be trigerred for below 3 scenarios 
 
 
-  + triggered from a feature branch (Only Shows terraform plan for `ops` workspace)
+  + triggered from a feature branch (Only Shows terraform plan for `ops` workspace).  
   ![Main]({{ "/images/kubestack-feature-branch.png" | absolute_url }}) 
 
 
-  + triggered from the main branch. (Applies changes for `ops` workspace)
+  + triggered from the main branch. (Applies changes for `ops` workspace).  
   ![Main]({{ "/images/kubestack-main-branch.png" | absolute_url }}) 
 
 
-  + triggered from a tag the pipeline. (Applies changes for `apps` workspace)
+  + triggered from a tag the pipeline. (Applies changes for `apps` workspace).  
   ![Tag]({{ "/images/kubestack-tag.png" | absolute_url }})
 
 
 References:
-- https://www.kubestack.com/
-- https://www.kubestack.com/framework/documentation/tutorial-get-started
+- [Kubestack](https://www.kubestack.com/)
+- [Kubestack Tutorial](https://www.kubestack.com/framework/documentation/tutorial-get-started)
