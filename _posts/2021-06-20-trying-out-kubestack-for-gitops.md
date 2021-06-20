@@ -288,5 +288,4 @@ Highlights of using kubestack:
 References:
 - [Kubestack](https://www.kubestack.com/)
 - [Kubestack Tutorial](https://www.kubestack.com/framework/documentation/tutorial-get-started).  
-- 
 Hope you like this post and Keep Learning !
