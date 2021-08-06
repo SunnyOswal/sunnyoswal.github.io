@@ -7,7 +7,7 @@ is_home_btn_reqd: "True"
 
 # Free Weekly Courses :
 + [Pluralsight](https://learn.pluralsight.com/resource/free-course/free-weekly-course) 
-+ [ACloudGuru](https://learn.acloud.guru/search?specialCategories%5B0%5D=FREE) 
++ [ACloudGuru](https://acloudguru.com/blog/news/whats-free-at-acg) 
 
 # All Free Courses List :
 + [Udemy](https://www.udemy.com/courses/free/?lang=en&sort=popularity&subcategory=Web+Development&subcategory=Other+in+IT+%26+Software&subcategory=Microsoft&subcategory=Programming+Languages&subcategory=Network+%26+Security) 
