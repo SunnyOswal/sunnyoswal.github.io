@@ -12,7 +12,7 @@ is_home_btn_reqd: "True"
 ![Azure]({{ "images/microsoft-certified-devops-engineer-expert.png" | absolute_url }})
 ![Azure]({{ "images/microsoft-certified-azure-developer-associate.1.png" | absolute_url }})
 ![Azure]({{ "images/az-400-designing-and-implementing-microsoft-devops-solutions.png" | absolute_url }})
-![Azure]({{ "images/mcse-cloud-platform-and-infrastructure-certified-2018" | absolute_url }})
+![Azure]({{ "images/mcse-cloud-platform-and-infrastructure-certified-2018.png" | absolute_url }})
 ![Azure]({{ "images/mcsa-cloud-platform-certified-2016.png" | absolute_url }})
 ![Azure]({{ "images/exam-535-architecting-microsoft-azure-solutions.png" | absolute_url }})
 ![Azure]({{ "images/exam-533-implementing-microsoft-azure-infrastructure-solutions.png" | absolute_url }})
