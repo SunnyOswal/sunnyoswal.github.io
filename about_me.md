@@ -11,6 +11,7 @@ is_home_btn_reqd: "True"
 ![AWS]({{ "images/aws_devops.png" | absolute_url }})
 ![Azure]({{ "images/az_arch.png" | absolute_url }})
 ![Azure]({{ "images/az_devops.png" | absolute_url }})
+![Istio]({{ "images/istio-fund.png" | absolute_url }})
 ![Azure]({{ "images/microsoft-certified-azure-developer-associate.1.png" | absolute_url }})
 ![Azure]({{ "images/az-400-designing-and-implementing-microsoft-devops-solutions.png" | absolute_url }})
 ![Azure]({{ "images/mcse-cloud-platform-and-infrastructure-certified-2018.png" | absolute_url }})
