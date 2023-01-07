@@ -7,7 +7,8 @@ is_home_btn_reqd: "True"
 ---
 
 ### Technical Accomplishments
-![AWS]({{ "images/AWS-ARCHITECT-LOGO.JPG" | absolute_url }})
+![AWS]({{ "images/aws_arch.png" | absolute_url }})
+![AWS]({{ "images/aws_devops.png" | absolute_url }})
 ![Azure]({{ "images/microsoft-certified-azure-solutions-architect-expert-legacy.png" | absolute_url }})
 ![Azure]({{ "images/microsoft-certified-devops-engineer-expert.png" | absolute_url }})
 ![Azure]({{ "images/microsoft-certified-azure-developer-associate.1.png" | absolute_url }})
