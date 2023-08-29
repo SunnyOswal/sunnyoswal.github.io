@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Sunny Oswal
-permalink: /about_me/
-is_aboutpage: "True"
-is_home_btn_reqd: "True"
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 ### Technical Accomplishments
