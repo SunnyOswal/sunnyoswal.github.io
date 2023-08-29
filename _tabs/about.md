@@ -4,7 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Technical Accomplishments
+# Quick Intro
+Hey there, I’m Sunny Oswal👋   
+I am Senior Cloud DevOps Engineer with 10+ years of hands on experience in Microsoft Azure, Amazon AWS & Google GCP.
+
+# Hire me at Upwork!
+![UPWORK]({{ "images/upwork.png" | absolute_url }})
+
+https://www.upwork.com/o/profiles/users/~01fb702b65d24192ad/
+
+💪 Certified DevOps & Certified Cloud Solutions Architect - AWS , AZURE & GCP.   
+💪 Hands-On experience in Architecting and implementing highly available & resilient cloud solutions.   
+💪 Expert in Infrastructure as code implementations and CI/CD pipelines.   
+💪 TOP RATED PLUS - Upwork's top 3%   
+💪 I ONLY work on projects where I believe I can deliver results.
+
+# Technical Accomplishments
 + ![AWS]({{ "images/aws_arch.png" | absolute_url }})
 + ![AWS]({{ "images/aws_devops.png" | absolute_url }})
 + ![Azure]({{ "images/az_arch.png" | absolute_url }})
