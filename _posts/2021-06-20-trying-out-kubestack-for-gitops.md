@@ -1,8 +1,6 @@
 ---
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'GitOps', 'Kubernetes' , 'GCP']
-is_post: "True"
-is_home_btn_reqd: "True"
 ---
 
 I recently came across `Kubestack` which is a GitOps framework for kubernetes Infra automation.   
