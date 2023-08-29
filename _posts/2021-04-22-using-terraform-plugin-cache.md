@@ -2,7 +2,7 @@
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode']
 image:
-  path: /images/Terraform_PrimaryLogo_ColorWhite_RGB.png
+  path: /images/terraform.png
   alt: terraform
 ---
 
