@@ -19,6 +19,7 @@ I am Senior Cloud DevOps Engineer with 10+ years of hands on experience in Micro
 💪 I ONLY work on projects where I believe I can deliver results.
 
 # Technical Accomplishments
+[`Credly Profile`](https://www.credly.com/users/sunny-oswal/badges)
 + ![AWS]({{ "images/aws_arch.png" | absolute_url }})
 + ![AWS]({{ "images/aws_devops.png" | absolute_url }})
 + ![Azure]({{ "images/az_arch.png" | absolute_url }})
