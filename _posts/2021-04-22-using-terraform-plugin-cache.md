@@ -1,8 +1,9 @@
 ---
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode']
-is_post: "True"
-is_home_btn_reqd: "True"
+image:
+  path: /images/Terraform_PrimaryLogo_ColorWhite_RGB.png
+  alt: terraform
 ---
 
 In my current project, we have automation scripts running terraform which have multiple providers like gcp & vault.   

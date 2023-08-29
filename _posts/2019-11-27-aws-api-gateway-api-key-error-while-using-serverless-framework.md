@@ -1,8 +1,6 @@
 ---
 categories: [Tech, AWS]
 tags: ['AWS', 'CloudFormation','ServerlessFramework']
-is_post: "True"
-is_home_btn_reqd: "True"
 ---
 In my current project, we are using [serverless framework](https://serverless.com/) to package/deploy our serverless application on AWS.  
 Serverless.yml consists of couple of lambda's , api gateway and related configurations.  

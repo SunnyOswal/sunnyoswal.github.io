@@ -1,8 +1,6 @@
 ---
 categories: [Tech, Azure]
 tags: ['Azure', 'Pluralsight']
-is_post: "True"
-is_home_btn_reqd: "True"
 ---
 
 Pluralsight is a great online platform to learn new skills and i admit it has always been my go-to option to strengthen my knowledge on any microsoft azure service which i need to work on.  

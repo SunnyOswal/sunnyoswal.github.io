@@ -1,8 +1,6 @@
 ---
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'Azure']
-is_post: "True"
-is_home_btn_reqd: "True"
 ---
 
 As per best practices of Terraform, state file should be stored in a remote backend storage like azure blob storage , aws S3 , etc and there should be a lock mechanism on this state file which prevents concurrent state operations, which can cause corruption.

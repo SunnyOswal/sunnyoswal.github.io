@@ -1,8 +1,6 @@
 ---
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'Cloud Computing']
-is_post: "True"
-is_home_btn_reqd: "True"
 ---
 
 Terraform is an enabler for following Infrastructure As Code (IaC) principle which lets you track , manage & provision cloud infrastructure for multiple clouds .
