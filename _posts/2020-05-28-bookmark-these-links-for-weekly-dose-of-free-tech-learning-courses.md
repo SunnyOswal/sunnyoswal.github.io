@@ -1,5 +1,5 @@
 ---
-categories: Azure
+categories: [Tech, Azure]
 tags: ['LinuxAcademy', 'Pluralsight','Udemy', 'Coursera']
 is_post: "True"
 is_home_btn_reqd: "True"

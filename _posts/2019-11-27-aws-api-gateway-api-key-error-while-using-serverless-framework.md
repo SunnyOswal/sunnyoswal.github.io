@@ -1,5 +1,5 @@
 ---
-categories: Aws
+categories: [Tech, AWS]
 tags: ['AWS', 'CloudFormation','ServerlessFramework']
 is_post: "True"
 is_home_btn_reqd: "True"

@@ -1,5 +1,5 @@
 ---
-categories: Azure
+categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'GitOps', 'Kubernetes' , 'GCP']
 is_post: "True"
 is_home_btn_reqd: "True"
