@@ -1,4 +1,16 @@
 ---
-layout: home
-# Index page
+layout: default
+is_home_page: “True”
 ---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>  
+      <br>
+      <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      <p><b>Tags:</b> {{ post.tags | join: ", " }}</p>
+    </li>
+  {% endfor %}
+</ul>
