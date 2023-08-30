@@ -79,7 +79,7 @@ comments:
     repo: SunnyOswal/sunnyoswal.github.io
     repo_id: MDEwOlJlcG9zaXRvcnkxOTk5ODYwMjQ=
     category: General
-    category_id: DIC_kwDOC-uLaM4CY9p
+    category_id: DIC_kwDOC-uLaM4CY9pB
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
