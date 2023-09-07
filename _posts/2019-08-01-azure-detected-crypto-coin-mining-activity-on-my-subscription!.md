@@ -1,6 +1,9 @@
 ---
 categories: [Tech, Azure]
 tags: ['Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
+image:
+  path: /images/crypto.png
+  alt: crypto
 ---
 
 Yesterday, while exploring azure services i came across “Security Center” service. You can find this service in azure portal by -
