@@ -14,7 +14,7 @@ However, a sense of monotony began to pervade our lives. We found ourselves exch
 
 Then, we stumbled upon the concept of "Financial Independence Retire Early" (FIRE). This notion resonated with us, presenting a challenging yet compelling objective. We set ambitious goals and surpassed them.
 
-Originally, we set our sights on retiring by 2025. However, in recent years, we've come to realize that life is fragile and waiting for the "right time" is a fallacy. Our aging parents require our support more than ever.
+Originally, we set our sights on retiring by 2025. However, in recent years, we've come to realize that life is fragile 🤍 and waiting for the "right time" is a fallacy. Our aging parents require our support more than ever.
 
 Many may argue that this is precisely what work-life balance entails. Believe it or not, achieving it is no small feat!
 
