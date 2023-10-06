@@ -6,13 +6,13 @@ image:
   alt: Success
 ---
 
-I graduated in mechanical engineering, while Sharanya (my wife) in electronics & communication engineering. Surprisingly, both of us have forged our careers in software engineering. We consider this transition to be the most pivotal event in our lives.
+I graduated in mechanical engineering, while Sharanya (my wife) in electronics & communication engineering . Surprisingly, both of us have forged our careers in software engineering 🧑‍💻. We consider this transition to be the most pivotal event in our lives.
 
-Initially, our individual careers were flourishing. We were employed by renowned global companies, earning commendable compensation, and honing our skillsets. The corporate benefits were an added bonus.
+Initially, our individual careers were flourishing. We were employed by renowned global companies, earning commendable compensation 🤑, and honing our skillsets. The corporate benefits were an added bonus.
 
 However, a sense of monotony began to pervade our lives. We found ourselves exchanging precious time for monetary gains. Starting from scratch with zero bank balance and no generational wealth, we initially pursued this path for our own survival and that of our family. A decade into our careers, it became apparent that continuing down this road indefinitely no longer made sense.
 
-Then, we stumbled upon the concept of "Financial Independence Retire Early" (FIRE). This notion resonated with us, presenting a challenging yet compelling objective. We set ambitious goals and surpassed them.
+Then, we stumbled upon the concept of "Financial Independence Retire Early" (FIRE 🔥). This notion resonated with us, presenting a challenging yet compelling objective. We set ambitious goals and surpassed them 🎯 .
 
 Originally, we set our sights on retiring by 2025. However, in recent years, we've come to realize that life is fragile 🤍 and waiting for the "right time" is a fallacy. Our aging parents require our support more than ever.
 
