@@ -1,5 +1,5 @@
 ---
-categories: [Personal]
+categories: [Personal, life-update]
 tags: ['life-update']
 image:
   path: /images/Success.png
