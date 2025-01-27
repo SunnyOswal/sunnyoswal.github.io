@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: [Tech, Azure]
 tags: ['LinuxAcademy', 'Pluralsight','Udemy', 'Coursera']
 ---
