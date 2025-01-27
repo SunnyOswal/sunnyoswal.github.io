@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: [Tech, Azure]
 tags: ['Azure', 'Azure Security Center', 'Cryptocurrency', 'Cloud Computing']
 image:

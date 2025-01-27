@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: [Tech, Azure]
 tags: ['Terraform', 'DevOps', 'InfrastructureAsCode', 'GitOps', 'Kubernetes' , 'GCP']
 image:

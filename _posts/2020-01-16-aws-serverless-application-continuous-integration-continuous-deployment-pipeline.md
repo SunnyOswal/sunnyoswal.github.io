@@ -1,4 +1,5 @@
 ---
+layout: post
 categories: [Tech, AWS]
 tags: ['AWS', 'Serverless', 'Terraform', 'BitbucketPipelines','ServerlessFramework','DevOps']
 image:
