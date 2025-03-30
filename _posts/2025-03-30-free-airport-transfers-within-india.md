@@ -24,7 +24,7 @@ Upon further checking [details](https://www.idfcfirstbank.com/personal-banking/a
 1. Added my IDFC Debit Card to the DreamFolks [web portal](https://webaccess.dreamfolks.in/login-user).
 2. Located the *Airport Transfer* benefit.
    ![Mail]({{ "/images/Dreamfolks_Home.PNG" | absolute_url }}) 
-3. Clicked "Book," filled in the required details, and that was it!
+3. Clicked "Book", filled in the required details, and that was it!
 
 # My Experience with the Free Airport Transfers:
 
