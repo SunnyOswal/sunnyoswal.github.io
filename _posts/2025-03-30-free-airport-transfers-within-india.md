@@ -17,7 +17,7 @@ On my recent trip to Jodhpur, I booked an Uber from the airport, only to end up 
 Once I reached my hotel, I checked my emails and stumbled upon a message from IDFC Bank: *"Airport Pick-Up is on us."* What a coincidence!
 ![Mail]({{ "/images/IDFC_MAIL.jpg" | absolute_url }}) 
 
-Upon further checking, I realized that my bank account type (*FIRST Private NRI*) offers **two complimentary airport transfers every quarter**. Since the quarter was ending soon and I had an upcoming flight, I decided to give it a try.
+Upon further checking [details](https://www.idfcfirstbank.com/personal-banking/airport-transfer-service), I realized that my bank account type (*FIRST Private NRI*) offers **two complimentary airport transfers every quarter**. Since the quarter was ending soon and I had an upcoming flight, I decided to give it a try.
 
 
 # How I Booked My Free Airport Transfer:
