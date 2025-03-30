@@ -15,7 +15,7 @@ Believe it or not, the worst part of air travel isn’t the flight itself—it�
 On my recent trip to Jodhpur, I booked an Uber from the airport, only to end up with a rude driver demanding extra cash for the hotel drop. It instantly dampened my vacation mood.
 
 Once I reached my hotel, I checked my emails and stumbled upon a message from IDFC Bank: *"Airport Pick-Up is on us."* What a coincidence!
-![Mail]({{ "/images/IDFC_MAIL.jpg" | absolute_url }}) 
+![Mail]({{ "/images/IDFC_Mail.jpg" | absolute_url }}) 
 
 Upon further checking [details](https://www.idfcfirstbank.com/personal-banking/airport-transfer-service), I realized that my bank account type (*FIRST Private NRI*) offers **two complimentary airport transfers every quarter**. Since the quarter was ending soon and I had an upcoming flight, I decided to give it a try.
 
