@@ -6,7 +6,7 @@ image:
   alt: upwork
 ---
 
-### From Uber Eats Walks to $200,000 on Upwork - My Accidental Freelancing Journey
+### From boredom to $200,000 on Upwork - My Accidental Freelancing Journey
 
 Back in 2019, I moved from Shanghai to Hong Kong for work. It was a new city, new culture, and I had no friends around. The first few months were spent figuring out the basics-transport, neighborhoods, and daily life. But soon after, boredom kicked in.
 
