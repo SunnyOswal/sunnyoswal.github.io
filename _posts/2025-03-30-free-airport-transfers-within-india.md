@@ -1,5 +1,5 @@
 ---
-categories: [Travel]
+categories: [Travel, airport-transfers]
 tags: ['travel']
 image:
   path: /images/AirportTransfer.png
