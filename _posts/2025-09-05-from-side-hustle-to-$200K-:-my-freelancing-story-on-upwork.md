@@ -1,5 +1,5 @@
 ---
-categories: [Personal]
+categories: [Personal, freelancing]
 tags: ['upwork']
 image:
   path: /images/200K_upwork.jpeg
