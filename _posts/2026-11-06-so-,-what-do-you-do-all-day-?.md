@@ -60,17 +60,17 @@ Early dinner with the family, unwind, and head to bed around midnight to start t
 
 Routine aside, the real beauty of early retirement is having the bandwidth to follow random whims without checking a calendar:
 
+* **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
+
 * **Matinee or midnight shows:** If a movie drops with decent IMDb ratings, I’ll book an empty 1:00 PM show on a Tuesday or a late-night screening without worrying about waking up early the next day.
 
 * **Family errands:** Being the only person with infinite schedule flexibility means I’m the designated emergency driver, bank-runner, and grocery-sorter. It’s actually nice being available when family needs something done in the middle of a working day.
 
 * **Spontaneous travel mapping:** Slow travel plans, road trips, or deciding our next base for a few weeks.
 
-* **Attempting to learn cybersecurity:** Every few weeks I get an itch to pick up cybersecurity just for personal curiosity and timepass. But let's be real-my lazy ass has zero patience for heavy reading or structured study modules nowadays. The intention is 10/10; the follow-through is purely decorative. 😂
+* **Attempting to learn cybersecurity:** Every few weeks I get an itch to pick up cybersecurity just for personal curiosity and timepass. But let's be real - my lazy ass has zero patience for heavy reading or structured study modules nowadays. The intention is 10/10; the follow-through is purely decorative. 😂
 
 * **Weekend friend duties:** Weekdays are quiet because everyone is working, so weekend evenings are reserved for catching up over craft beers or good food.
-
-* **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
 
 ### The Verdict
 
