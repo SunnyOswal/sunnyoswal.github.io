@@ -6,7 +6,7 @@ image:
   alt: routine
 ---
 
-# "So, What Do You Do All Day?"
+### "So, What Do You Do All Day?"
 
 For the past three years, practically every conversation with friends and relatives inevitably circles back to the exact same question:
 
