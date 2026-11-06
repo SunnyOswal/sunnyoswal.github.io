@@ -2,7 +2,7 @@
 categories: [Personal]
 tags: ['routine']
 image:
-  path: /images/routine.png
+  path: /images/routine2.png
   alt: routine
 ---
 
