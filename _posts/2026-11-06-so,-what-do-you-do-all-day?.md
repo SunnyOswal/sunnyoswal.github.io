@@ -2,16 +2,15 @@
 categories: [Personal]
 tags: ['routine']
 image:
-  path: /images/routine.jpeg
+  path: /images/routine.png
   alt: routine
----
 ---
 
 # "So, What Do You Do All Day?"
 
 For the past three years, practically every conversation with friends and relatives inevitably circles back to the exact same question:
 
-*"Bhai, tu saara din karta kya hai?"* (So… what do you actually do all day?)
+*"Bhai, tu saara din karta kya hai?"* (So… what do you actually do all day?) 🤷🏻‍♂️
 
 I wrote this because I’m officially tired of answering the question individually. Consider this the definitive, public log of my "unproductive" existence.
 
@@ -37,11 +36,11 @@ I’m no fitness fanatic aiming for single-digit body fat-the goal is simply fun
 
 Back home, proper hot lunch, and a shower. The next couple of hours belong to low-stakes curiosity:
 
-* **The newspaper (yes, really):** I open up the Hindustan Times e-paper online and read through it. I know what you’re thinking-who reads a newspaper anymore? But I do. https://epaper.hindustantimes.com/edition/chandigarh-live
+* **The newspaper (yes, really):** I open up the Hindustan Times [e-paper](https://epaper.hindustantimes.com/edition/chandigarh-live) online and read through it. I know what you’re thinking-who reads a newspaper anymore? But I do. 
 
 * **Swing trading the Indian markets:** My long-term portfolio lives quietly in mutual funds that I don't micromanage. The active trading is strictly swing setups-spot a pattern, aim for a clean 5–6% return over a week or two, book profits, reinvest, repeat. Part time-pass, part brain exercise.
 
-* **Flight hunting on Skyscanner:** One of the perks of zero leave policies is radical flexibility. If an absurdly cheap flight or an interesting route catches my eye, I don’t need to submit a leave request. I can literally pack a bag and fly out the next morning.
+* **Flight hunting on Skyscanner:** If an absurdly cheap flight or an interesting route catches my eye, I don’t need to submit a leave request. I can literally pack a bag and fly out the next morning.
 
 **4. The Afternoon Slump (4:00 PM – 6:00 PM)**
 
@@ -52,7 +51,6 @@ An afternoon nap is non-negotiable. Wake up naturally around 5:30 or 6:00 PM.
 **Duolingo grind (español)**: I learn español on Duolingo daily without a miss. No seriously, the anxiety of breaking my streak is so real that the green owl basically holds me hostage every day. I cannot and will not let that counter drop to zero. 😂
 
 The rest of the evening is unapologetic doomscrolling-Reddit rabbit holes, X (Twitter) drama, and Instagram reels.
-
 
 Early dinner with the family, unwind, and head to bed around midnight to start the cycle over.
 
@@ -72,11 +70,12 @@ Routine aside, the real beauty of early retirement is having the bandwidth to fo
 
 * **Weekend friend duties:** Weekdays are quiet because everyone is working, so weekend evenings are reserved for catching up over craft beers or good food.
 
+* **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
 ---
 
 ### The Verdict
 
-My life probably looks boring, repetitive, and deeply un-ambitious.And honestly? It kind of is. There are no quarterly targets, no networking mixers, and no grand five-year visions.
+My life probably looks boring, repetitive, and deeply un-ambitious.And honestly? It kind of is.
 
 But waking up every single morning with complete ownership over all twenty-four hours of your day isn't boredom-it’s absolute free will.
 
