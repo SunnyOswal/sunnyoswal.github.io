@@ -14,8 +14,6 @@ For the past three years, practically every conversation with friends and relati
 
 I wrote this because I’m officially tired of answering the question individually. Consider this the definitive, public log of my "unproductive" existence.
 
----
-
 ### The Predictable Half: The Daily Routine
 
 My days don't have rigid time blocks, but they do have a natural rhythm.
@@ -54,8 +52,6 @@ An afternoon nap is non-negotiable. Wake up naturally around 5:30 or 6:00 PM.
 
 * Early dinner with the family, unwind, and head to bed around midnight to start the cycle over.
 
----
-
 ### The Unpredictable Half: The Random Stuff
 
 Routine aside, the real beauty of early retirement is having the bandwidth to follow random whims without checking a calendar:
@@ -71,7 +67,6 @@ Routine aside, the real beauty of early retirement is having the bandwidth to fo
 * **Weekend friend duties:** Weekdays are quiet because everyone is working, so weekend evenings are reserved for catching up over craft beers or good food.
 
 * **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
----
 
 ### The Verdict
 
