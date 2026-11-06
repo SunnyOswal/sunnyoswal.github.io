@@ -71,7 +71,6 @@ Routine aside, the real beauty of early retirement is having the bandwidth to fo
 * **Weekend friend duties:** Weekdays are quiet because everyone is working, so weekend evenings are reserved for catching up over craft beers or good food.
 
 * **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
-
 ---
 
 ### The Verdict
