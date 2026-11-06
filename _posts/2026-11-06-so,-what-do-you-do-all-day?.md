@@ -75,7 +75,7 @@ Routine aside, the real beauty of early retirement is having the bandwidth to fo
 
 ### The Verdict
 
-My life probably looks boring, repetitive, and deeply un-ambitious.And honestly? It kind of is.
+My life probably looks boring, repetitive, and deeply un-ambitious. And honestly? It kind of is.
 
 But waking up every single morning with complete ownership over all twenty-four hours of your day isn't boredom-it’s absolute free will.
 
