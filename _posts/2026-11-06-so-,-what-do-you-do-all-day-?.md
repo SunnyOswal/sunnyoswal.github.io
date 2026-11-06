@@ -48,11 +48,11 @@ An afternoon nap is non-negotiable. Wake up naturally around 5:30 or 6:00 PM.
 
 **5. Evenings & Digital Loafing**
 
-**Duolingo grind (español)**: I learn español on Duolingo daily without a miss. No seriously, the anxiety of breaking my streak is so real that the green owl basically holds me hostage every day. I cannot and will not let that counter drop to zero. 😂
+* **Duolingo grind (español)**: I learn español on Duolingo daily without a miss. No seriously, the anxiety of breaking my streak is so real that the green owl basically holds me hostage every day. I cannot and will not let that counter drop to zero. 😂
 
-The rest of the evening is unapologetic doomscrolling-Reddit rabbit holes, X (Twitter) drama, and Instagram reels.
+* The rest of the evening is unapologetic doomscrolling-Reddit rabbit holes, X (Twitter) drama, and Instagram reels.
 
-Early dinner with the family, unwind, and head to bed around midnight to start the cycle over.
+* Early dinner with the family, unwind, and head to bed around midnight to start the cycle over.
 
 ---
 
@@ -71,6 +71,7 @@ Routine aside, the real beauty of early retirement is having the bandwidth to fo
 * **Weekend friend duties:** Weekdays are quiet because everyone is working, so weekend evenings are reserved for catching up over craft beers or good food.
 
 * **Finding new ways to pass time:** Discovering fresh ways to kill time is an art form in itself. 😂 Lately, my favorite obsession is hunting down new credit cards and ruthlessly optimizing reward points, fee waivers, and lounge perks like it’s a high-stakes strategy game.
+
 ---
 
 ### The Verdict
